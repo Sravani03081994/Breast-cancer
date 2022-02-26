@@ -1,0 +1,603 @@
+iPinpointing the sort of bosom malignancy for exact treatment
+Sravani
+magulurisravani94@gmail.com
+Vignan’s Institute of Information Technology, Visakhapatnam, Andhra Pradesh
+ABSTRACT
+The second-largest cause of carcinoma death is breast
+carcinoma in woman. The Breast carcinoma development is
+one multi-stage cycle that requires many cell types, and its
+detection remains challenging worldwide. One of the best
+approaches to avoiding this disorder is Fast treatment with
+cancer in breasts. In the past decade, there have been
+significant progress over identifying breast cancer and
+improving prevention approaches. Pathogenicity in breast
+carcinoma stem cells and tumor drug resistant mechanisms
+are shown and many genes associated with the disease are
+found. In this analysis, we will sum up how breast cancer is
+defined and which category it belongs to through order to
+provide specific treatment and medications to promote rapid
+recovery. Identification of the form will allow us to recognize
+the drug to react and get rid of. Through using the dataset as
+feedback, we use it to differentiate if it is non-invasive /
+invasive. When it falls under non-invasive, we use the subcategory to define that it fits under DCIS / LCIS. If it falls
+under invasive, we use it to classify that sub-category,
+whether it falls under IDC / ILC / OTHER Forms. we will
+sum up the concept of breast cancer and its diagnosis and
+include therapies and medicines that help a quick recovery.
+Identification of the type will allow us to identify and get rid
+of the medication.
+Keywords: Breast, Carcinoma, DCIS, Ductal, Differentiate,
+IDC, ILC, Invasive, LCIS, Lobular, Non-Invasive
+1. INTRODUCTION
+Breast carcinoma is the major form of carcinoma in patients
+who experience from lung carcinoma. Breast cancer is
+metastatic cancer and can often be spread to remote organs
+including brain, lung, liver and bone that are primarily
+responsible for its irremediable. Preliminary prediction will
+lead to a good diagnosis and a high percentage of survival. For
+women, the bulk of breast cancer exists and 100 times more
+cases than those of men for women. Cancer arises when the
+defense state fails and / or the number of cells generated
+becomes too large to cure the disease.. In some conditions,
+There may be very high rates of Genetic and RNA mutations,
+for example: insalubrious climate (due to pollution, toxic
+materials, etc.), poor diet (unhealthy cell setting). Symptoms
+may include breast lumps, breast shape shifts, dimple skin,
+fluids streaming from the breast, a newer-inverted breast, or a
+dark or lumpy skin spot, bone discomfort, swelling glands,
+difficulty breathing, or rusty skin may be observed in patients
+with a distant distribution of the disorder. Several other
+variables as age, body weight, malnutrition and lack of
+physical activity may lead to developing this disorder, alcohol
+intake, genetic differences and HRT.
+Despite the truth, in perimeter and postmenopausal years,
+people are more prone to die from breast cancer, so a particular
+attempt must be made to reduce the prevalence so deaths from
+breast cancer in a specific population. Our work was aimed at
+analyzing developments in breast cancer and classifying its
+type. Included in our research is epidemiological details on
+breast cancer for all ages – from 1970 to 2019.
+A cancer may be benign (not harmful for its health) or
+malignant (harmful). This is also likely. The cells look in their
+usual form, expand gradually and do not overwhelm, migrate
+to, or enter adjacent areas. Benign cancers are not recognized
+as cancer. Cancerogeneity in malignant tumors. Uncontrolled
+malignant cells will gradually spread to other areas of the body
+outside the initial tumour.
+Fig. 1: Analyzing The Worst Across
+Different Dimensions
+Tissue of the breast comprises of lobules, canals and nipples.
+Tree tree example, the primary sources and the lesser radiation.
+Comparison. Breast cancer grows in cells most often from the
+milk pipe lining and lobules that provide milk for these canals.
+Sravan;i International Journal of Advance Research, Ideas and Innovations in Technology
+© 2020, www.IJARIIT.com All Rights Reserved Page |122
+Duct carcinomas are known as ductal tumours, whereas lobular
+tumours are believed to arise from lobules. The detection of
+breast cancer is verified by the usage of a biopsy of the tissue
+in question. When the patient is diagnosed, further scans are
+done to assess if the cancer has progressed beyond the breast,
+which category of breast cancer it refers to, and the therapies
+are more likely to be successful.
+Breast comprises two major tissue types, namely glandular
+tissue and stromal tissues (supporting tissue). The milk
+production glands (lobules) and the ducts (milk pathways) are
+contained by glandular tissues, while fatty and fibrous
+connective breast tissues are contained in stromal tissue.
+1.1. Decision Tree Algorithm:
+A decision tree is a plant-like system of fluctuations where the
+function (or attributes) is the internal node, the branch is a
+decision law and every leaf node is a decision. You may make
+choices with this complex diagram type. Visualization is like a
+metaphor which rapidly imitates human thinking. That is why
+decision-making trees are easy to recognize.
+We will undertake the following two phases in the
+implementation of the decision tree:
+Building phase: Dataset pre-processing, train classifier splitting
+the train dataset and testing using Python sklearn software.
+Stage of operations: Predict, precision estimate.
+The core principle behind every decision tree algorithm is this:
+• Choose the right characteristics for grouping documents
+using ASM.
+• Build a vector of the decision node and split it into smaller
+subsets.
+• Start tree construction by carrying out this procedure
+recursively for every child until there is one condition:
+• The value is the same scale as the two tuples.
+a) No other features are available.
+b) No more instances are available.
+2. LITERATURE SERVEY
+Bibliometric research can be carried out in many fields with
+various reasons and can be used to expose recent trends in the
+field. A structural study of breast cancer literature has been
+performed health outcomes in all stages of breast cancer
+care, diagnosis, early detection, local therapy, including
+primary prevention, adjuvant therapy, survival and dying
+experience, metastatic disease treatment. A combination of
+main terms, quality of life, the research techniques covered
+breast cancer, breast carcinomas, forms of breast cancer, breast
+cancer treatment, breast cancer development and sub-grouping
+of terms. This was a consequence of the search strategy. Fast
+breast cancer diagnosis is the secret to healing.
+In this analysis, the functionality of a visual picture of a fine
+niddle suction of a breastmass is measured. A thin niddle is
+inserted into an region of irregular tissue (or body fluid) in the
+body. Like with other forms of biopsy, the sample obtained
+during fna can help to diagnose (or rule out) conditions such as
+cancer.
+MR Ataollahi and J Sharifi has been described on the citation :
+Breast cancer and associated factors: a review : The report
+discussed the various types of breast cancer and its related
+causes. This has been established that breast cancer was and
+remains one of the most prevalent and growing malignancies.
+It has extensive knowledge regarding risk factors, disease risks
+and we have details in this article about the likelihood of
+elderly disease. Various cancer forms have different risk
+factors. Some of these factors can be changed, depending on
+lifestyle, such as cigarette-smoking , alcohol use and diet.
+Factors such as age , race , gender and family history are
+nevertheless fixed and immutable. It does not automatically
+mean that one or more of these risk factors was involved.
+Yi-Sheng Sun and Zhao Zhao has been described on the
+citation : Risk Factors and Preventions of Breast Cancer : This
+paper provides information about oncogenes and antioncogenes mutations and abnormal amplification that play a
+major function in tumor development and growth. The
+mechanisms of protection, including research, chemical
+protection and biological prevention, are more straightforward
+and efficient than in the past. Nowadays, with the cost
+reduction in DNA sequencing, human genome sequencing
+could be available to middle-class communities, so this may be
+a revolutionary tool for breast carcinoma prevention.
+Ganesh N. Sharma and Rahul Dave has been described on the
+citation : Various Types And Management Of Breast Cancer :
+An Overview : We also had information in this article on the
+forms and the past of breast carcinoma. Breast carcinoma is
+primarily invasive and non-invasive by two forms according to
+the characteristics. Non-invasive comes under type 0 which is
+currently not cancerous in the future. Invasive is cancerous
+depending on the signs and may be classified as a subtype. It
+often provides details about the risk factors and the likelihood
+of cancer arising. When several of the patient's family
+members have different kinds of cancer, they might be more
+likely to experience breast cancer with a woman.
+Necessary knowledge was gathered throughout this article via
+a literature review and keywords (cancer, breast cancer,
+chromosome, gene, quality of life, gender, risk factors,
+prevention, advancement, treatment methodologies, incidence,
+income, sex, weight, alcohol , tobacco, menopause, biology,
+cytokine, and mortality) throughout reputable science
+databases such as SID, Google Scholar, and detailed.
+3. BACKGROUND AND ASSUMPTIONS
+Multiple grading systems classify breast cancers which affect
+the predictions of each and can influence treatment response.
+Specific patterns of DNA methylation between normal and
+tumor- microenvironments have been observed, indicating that
+epigenetic modifications in the tumor microenvironment may
+promote carcinogenesis. A recent growth, escape and
+recurrence of a new form of malignant tumor cell named CSCs
+is being established and linked with tumor production.
+3.1 Types
+Breast cancers are of multiple types, and they are defined in
+several different ways. During a testing of breast cancer it is
+possible to get lost. The type of breast cancer is defined by the
+different cells that are infected within the breast. Breast
+carcinoma can start in several areas of the breast — the ducts,
+the lobules, or the intermediate tissue in some cases.
+Table 1: Subgrouping of Breast Cancer And Its Probability
+Subtypes Further
+classification
+Important
+markers Probability
+NONINVASIV
+E
+DCIS
+Within
+ducts,irregular
+shape,doesn't
+spread to
+surrounding
+90%
+Sravan;i International Journal of Advance Research, Ideas and Innovations in Technology
+© 2020, www.IJARIIT.com All Rights Reserved Page |123
+tissue,unicentric
+origin, stage0
+LCIS
+Within
+lobules,irregular
+shape,doesn't
+spread to
+surrounding
+tissue,multicent
+ric origin,stage0
+10%
+INVASIV
+E
+IDC
+Within
+ducts,irregular
+shape, spread to
+surrounding
+tissue
+80%
+ILC
+Within
+lobules,single
+file like
+structure,spread
+to surrounding
+tissue
+10-15%
+TUBULAR
+Tube like
+structure, softer
+texture,very rare
+2%
+MUCINOUS
+Well
+circumscribed
+mass,medium
+texture,higher
+radius
+Rare
+CARCINOM
+A WITH
+MEDULLA
+RY
+FEATURES
+Sheet like
+structure,forms
+distint
+boundaries
+between tumor
+and normal
+tissue
+5%
+INVASIVE
+PAPILLAR
+Y
+Finger like
+structure,bloody
+nipple
+discharge,abnor
+mal mass
+0.50%
+OTHER Very rare types 5%
+3.1.1 Non-Invasive Carcinoma: Non-invasive tumors exist in
+the breast with milk canals or lobules. They don't expand into
+usual tissues or attack them within or outside the breast. Even
+non-invasive carcinoma ("in the same spot") or pre-cancer is
+called carcinoma in-situ. Non-invade breast cancer consists of
+two distincted individuals include: ductal cancer in-situ
+(DCIS) and lobulary cancer in-situ (LCIS).
+3.1.2 Lobulary carcinoma in-situ(LCIS): LCIS is typically
+asymptomatic, and is observed with certain results as an
+accidental result on breast biopsy. LCIS is an irregular area(s)
+of cell development that raises an individual's risk for invasive
+breast carcinoma further in life. Lobular implies that
+anomalous cells in the lobules continue to expand. In situ or in
+the original position is to persist in the lobule, abnormal
+development and not to expanded to the cells. 6-15 % of all
+breast cancer types are LCIS.
+3.1.3 Ductal carcinoma in-situ(DCIS): DCIS is usually
+asymptomatic when only diagnosed in an anomalous
+mammogram. DCIS is often referred to as intraductal
+carcinoma or stage 0 cancer. The cells that form the ducts have
+converted to cancer cells, this did not extend across the walls
+of ducts to the outer breast tissue. DCIS is not life-threatening,
+although the chance of aggressive breast cancer may be raised
+later with DCIS. A red, pink tinged, transparent or serous
+random discharge from the nipple in action may be a
+presenting sign. People develop DCIS and are therefore more
+willing to revisit or develop a new breast cancer than someone
+who has will ever have breast cancer. Women with DCIS
+without radiation treatment or breast-conserving surgery
+(lumpectomy) are around 25%-30% likely to suffer recurrence
+in the future. LCIS constitutes 23-25 percent of all forms of
+breast LCIS
+3.1.4 Invasive Carcinoma: Cancer that extends through the
+tissue layer where it forms and expands into healthy tissues in
+the surrounding area. Often referred to as cancer invasion.
+Types of invasive carcinoma are
+3.1.5 Invasive Ductal Carcinoma: Invasive ductal carcinoma
+(IDC) is a tumor which has begun to develop in a milk duct
+and has penetrated fibrous or fatty breasts outside the duct. It is
+also known as infiltrative ductal carcinomas. IDC is by far the
+most commonly diagnosed cancer of the breast and constitutes
+between 70% or 80% among all cases of breast cancer. IDC is
+still the most prevalent form of breast cancer for males.
+Table 2 : Difference B/W DCI And LCIS
+DCIS LCIS
+Structure involved Ducts Lobules
+Type of subsequent
+cancer
+Ductal Ductal(or)lobular
+Breast at risk Ipsilateral
+breast Either breast
+Laterality Unilateral Often bilateral
+N.o of sites of origin Unicentric Multicentric
+Clinical sign Mass,pain,
+Discharge None
+A mammogram can reveal a suspicious mass that leads to
+further tests. During breast self-examination, a woman often
+can notice a lump or mass. The precise type of cancer and the
+level of therapy for all cases of IDC is defined. Types of IDC
+are
+3.1.6 Tubular Carcinoma: Tubular breast cancer is a
+mutation of invade ductal carcinoma . Small (about 1 cm or
+less), rod-shaped structures called "bone" usually consist of
+tubular carcinomas. These tumors are typically low-grade,
+which means they have a similar appearance to regular, healthy
+cells and are gradually developing. While tubular carcinoma
+can occur at all ages, physicians mostly diagnose it in women
+in the early 1950s. Carcinomas of the tubes in males are rare.
+Simple tubular carcinoma typically does not grow beyond the
+conduct and underlying tissue. A combination of tube shaped
+structures and lobular carcinoma cells is a mixed tubular
+carcinoma which makes it difficult to diagnose. About 1-4% of
+all breast cancers were tubular carcinoma. Nevertheless, tubes
+carcinomas are becoming more commonly used, even before
+you or your doctor feel lump. Nevertheless, tube carcinomas
+can be more frequently detected. For people with tubular
+carcinoma, several treatment options are available
+3.1.7 Medullary Carcinoma: Medullary breast carcinoma is a
+rare type of IDC that represents 3-5 per cent of all diagnoses of
+breast cancer. Which works differently from other forms of
+cancer of the duct breast. While medullary tumors look
+extremely violent, they develop gradually and never spread to
+the lymph nodes. Plasma and advanced white blood cells, or
+Sravan;i International Journal of Advance Research, Ideas and Innovations in Technology
+© 2020, www.IJARIIT.com All Rights Reserved Page |124
+lymphocytes, accompany carcinoma tumors in the medullary
+breast. Medullar carcinoma does not grow rapidly and does not
+actually spread to the lymph glands outside of the breast.
+While hormones take a part in the development of certain types
+of sheep cancer, the medullary system tends to not cause
+carcinomas. Genetic variations contribute to the production of
+medullary carcinoma. The risk of developing medullary breast
+carcinoma in patients with mutation in the BRCA1 gene may
+be increased.
+3.1.8 Mucinous Carcinoma: Colloid carcinoma is an rare
+form of intrusive ductal carcinoma in breast carcinoma. This
+constitutes 1 to 7% of all cancers of the breast. Pure mucinous
+carcinomas of the breast are rare and account for only 2 percent
+of all primary carcinomas. The tumor comprises of abnormal
+cells that "float" for mucinal pools, a key components of the
+sticky, fatty substance named mucus, for this form of cancer.
+Nevertheless, mucinoma is part of the tumor and protects the
+cells of breast cancer. This appears like cancer cells are spread
+around pools of mucus under a microscope. Mucinogenic
+carcinoma may be diagnosed at any age, but it appears to affect
+women after menopause.
+3.1.9 Papillary Carcinoma: Papillary cancer of the breast is a
+very unusual form defined by about 1% of all invasive ductal
+cancer cancers of the breast. The name comes from finger-like
+projections or papules, seen as the cells are microscopically
+presented. Cells with or without invasion that form
+fibrovascular nuclei are common features of tumor. The proof
+provided indicates stronger outcomes in comparison to
+aggressive ductal carcinoma for papillary carcinoma. In reality
+the pathologist would also have to use a microscope for the
+entire tumour in order to be confident of the condition even
+whether the biopsy for cancer is negative.
+3.1.10 Invasive Lobular Carcinoma: Invasive lobular
+carcinoma seems to be the second commonest type of tumor
+preceding ductal carcinoma in situ. (ILC), often referred to as
+the infiltrating lobular carcinoma. Aggressive lobular
+carcinomas represent about 10% of the aggressive breast
+tumors. Invasive cancer indicates that the cells of the cancer
+have originated from the lobule Where it originated and can
+migrate to the lymph nodes and other areas of the body.
+Although invasive lobular carcinoma at any age may cause
+harm to women, it is more prevalent in older people. Invasive
+lobular carcinoma is less prone to develop a solid or distinct
+breast lump than other forms of breast cancer. A thickened
+patch present at breast tissue is more likely to exist.
+3.1.11 Other Types: Many other rare form of invasive
+carcinoma are : Metastatic carcinoma, Inflammatory breast
+cancer, Male breast cancer, Paget’s disease of the nipple,
+Phylloides tumor, Triple negative breast cancer... Most of these
+particular forms are very rare and can be handled easily. A
+some rare forms are very aggressive and difficult to deal.
+Cancer exists as such types can be present in milk conducts in
+various locations, spreading to the surface of the nipple or
+through connective tissue networks on the breast of the neck.
+4. METHODOLOGY
+4.1 Breast Cancer Dataset
+Information package Preach that cancer is healthy or malignant
+as a sample, so we use Breast Cancer Wisconsin. The
+Properties in which a digitized image of the fine aspiration
+needle (FNA) of the breast mass is included. We identify the
+characteristics of the cell nuclei in the image. For each nucleus
+ten real-valuation characteristical characteristics are calculated:
+radius (mean distances between core and perimeter points);
+texture (standard gray-scale deviation) The I d and the
+diagnostic symptoms are excluded (the group element is the
+latter). The last X (populated with NA values only) function is
+also dropped. The density graph for the field plot is used to
+represent both the density value and the separation degree of
+the two sets of values in each direction of the field. There is no
+complete distinction between all characteristics. We have
+comparatively reasonable divisions for concave.points,
+concavity worst, perimeter worst, area medium, and medium
+perimeter. For a variety of properties, namely symmetry se,
+smoothness se, we also have a close overlay. We also represent
+the dispersion matrix with the pairs.
+Fig. 2: Methodology
+4.2 Decision Tree Algorithm
+Decision trees use several algorithms to evaluate the division
+of a node into a number or all of the subnodes. The creation of
+sub-nodes enhances the uniformity of the subsequent subnodes. The integrity of the node decreases with respect to the
+target element. The Decision Box splits the nodes into all
+factors and then picks the fraction that corresponds to the most
+stable subnodes. Here we used an ID3(Iterative Dichotomiser)
+algorithm to create a decision tree. Using a greedy scan topdown method across the space of potential untracked branches.
+Like the name implies, a gullible algorithm is still the perfect
+alternative right now.
+Move to the ID3 algorithm:
+• Begins with the original collection of S as the root node.
+• For each iteration of the algorithm, it runs through a very
+unknown S-set attribute and calculates Entropy(H) and
+Information gain(IG) of that attribute.
+• So choose the attribute that has the smallest gain in Entropy
+or Largest Data.
+• Set S is divided by the selected attribute to generate a subset
+of the tests.
+• The algorithm begins to recur on each subset, considering
+only attributes that have never been selected before.
+We used the following formulas to solve this attribute selection
+problem. A zero entropy division is a sheet unit, and a null
+entropy bracket must be further split up.
+Sravan;i International Journal of Advance Research, Ideas and Innovations in Technology
+© 2020, www.IJARIIT.com All Rights Reserved Page |125
+Pj → Probability of an event j of state or Percentage of
+class j in a node of state .
+To measure the purity we use
+Another thing to note is that Gini is not the only one assessing
+cleanliness. Many others are worth mentioning, but the
+following two.
+ID3 algorithm uses information gain.
+We divided data into types using the ID3 algorithm, based on its
+functional values.
+4.3 Classification Of Breast Cancer Data Set
+After examining a few patients, we developed a dataset with
+few features. For those that we use to segregate the benign and
+the malignant. Whether it is benign, it means it is not
+cancerous. When it is malignant, we use the procedure for
+further analysis of which form it belongs to for successful
+treatment. The following steps include precise details about
+how we did the separation.
+Carcinoma formed in milk ducts is composed as ductal
+carcinoma if it arises in the lobules and is then referred to as
+lobular carcinoma. Ductal & lobular carcinoma are also
+classified into two separate categories based on spread to
+adjacent tissues. As it extends to the neighboring tissue, it
+comes under invasive conditions when it is adjusted to the
+inside of the tissue, then to the non-invasive tissue. Invasive
+DCs and lobular carcinomas can be referred to as invasive DCs
+and invasive LCs, respectively. Ductal and lobular carcinoma
+in situ (DCIS) and lobular in-situ (LCIS) should be alluded to
+in non-invasive situations. With this IDC, ILC, DCIS and
+LCIS, harder texture thresholds (39.28-20.01) have been set
+according to our dataset analysis. The compactness of ILC and
+LCIS was lower (0.1402-0.04605) and the compactness of
+DCIS and IDC was higher (0.3454-0.1402). If the region varies
+in the perimeter of the checkup, it is invasive otherwise it is
+non-invasive.
+In IDC, we had four other forms of Tubular Carcinoma (TC)
+that are in tube with a smoother shape form (14.38-10.38), in
+the case of papillary carcinoma(IPC), carcinoma with
+medullary features(CMF), mutinous carcinoma(MC) has soft
+texture(19.98-15.05), in this IPC it has smaller radius(19.45-
+11.08) and in the case of MC and CMF it has higher radius for
+CMF has lower compactness(0.1666-0.07864) and MC has
+higher compactness(0.2768-0.1849). The remaining cases will
+come under other types.
+5. RESULTS
+Selection of the function was performed on the dataset where
+the sample code number attribute was removed. In order to
+perform the decision tree ID3 data mining technique. The tree
+created by ID3 can be used to classify whether the patient is of
+which kind. Data mining techniques are based on the principle
+of information entropy.
+Every data attribute is used to make a decision by breaking the
+data into smaller modules. This explores the normalized gain
+of information (IG) (difference in entropy) resulting from the
+selection of the attribute as a split point. The highest quality IG
+is used at the root of the tree. The process is repeated until a
+leaf node is generated for the tree that specifies the chosen
+class attribute.
+The findings show that ID3 classificators with a variety of
+functionalities are a superior technique for diagnosis of breast
+cancer and can be further enhanced to accurately predict the
+same with more education info. The resulting decision tree
+after description of histopathological forms
+6. FUTURE WORK
+In future data from different regions worldwide will be
+collected and a more reliable and general overview model will
+be developed for the diagnosis of breast cancer. We've focused
+on only a few forms of histopathological separation processes
+in more detail. The path to survival is early diagnosis of breast
+cancer. Specific separation methods may be used to diagnose
+each and every form in detail. By offering histopathological
+separation may help to distinguish the exact form at an early
+stage, there will be several opportunities for successful
+diagnosis and effective recovery.
+7. CONCLUSION
+In women, breast cancer is the second major cause of death by
+tumors. One of the best approaches to eliminate this disease is
+by curing breast cancer early. Within this article, we will sum
+up the concept of breast cancer and its diagnosis and include
+therapies and medicines that help a quick recovery.
+Identification of the type will allow us to identify and get rid of
+the medication. Yet we have identified only few forms which
+could provide simple recognition for far more unusual forms of
+breast cancer, which may help to provide effective diagnosis
+for fast and higher recovery opportunities.
+8. REFERENCES
+[1] Bio markers for the early detection of breast cancer:
+when, What, and where?
+Author links open overlay panel Victor V.Levenson
+[2] Breast Cancer Detection and Diagnosis by Using
+Mammographic Data: Systematic Review
+Sravan;i International Journal of Advance Research, Ideas and Innovations in Technology
+© 2020, www.IJARIIT.com All Rights Reserved Page |126
+Syed Jamal Safdar Gardezi, PhD, Ahmed Elazab, PhD,
+[...], and Tianfu Wang, PhD
+[3] various types and management of breast cancer: an
+overview
+Ganesh N. Sharma, Rahul Dave, [...], and K. K Sharma
+[4] A review of breast cancer awareness among women in
+India: Cancer literate or awareness deficit?
+Gupta, K. Shridhar, and P.K. Dhillon
+[5] Cancer-Its various types along with causes, symptoms,
+treatments and stages, in: cancer info guide. 2009. [15
+Mar. 2010]. http://www.cancer-info-guide.com/
+[6] Breast cancer process india, Breast cancer cost india,
+Breast cancer, delhi India. Breast cancer information and
+resources. 2010. Apr 13, [14 April
+2010]. http://www.digforthecure.org/breast-cancerprocess-india-breast-cancer-cost-india-breast-cancerdelhi-india. html .
+[7] Weigelt B, Horlings HM, Kreike B, Hayes MM,
+Hauptmann M, Wessels LF, de Jong D, Van de Vijver
+MJ, Van't Veer LJ, Peterse JL. Refinement of the breast
+cancer classification by molecular characterization of
+histological special types. J. Pathol. 2008 Oct;216(2):141-
+50. [PubMed]
+[8] Maluf HM, Koerner FC. Solid papillary carcinoma of the
+breast. A form of withinductal carcinoma with endocrine
+differentiation frequently associated with mucus
+carcinoma. Am J Surg Pathol. 1995 Nov;19(11):1237–
+44. [PubMed] [Google Scholar]
+[9] What is breast cancer? Imaginis. 2008. Jun 11, [17 Mar
+2010]. http://www.imaginis.com/breast-health/what-isbreast-cancer-2 .
+[10]Types of breast cancer. Rethink breast cancer. 2003. [18
+Mar.2010].
+http://www.rethinkbreastcancer.com/types_of_breast_can
+cer.html .
+[11]Types of breast cancer. Abviva. 2009. [18 Mar.
+2010]. http://abviva.com/1.html .
+[12]Ductal breast cancer. Cancer studies. Mar. [28 Mar.
+2010]. http://cancer-studies.com/ductal-breast-cancer .
+[13]Fayed L. Types of breast cancer. About.com: Cancer.
+2009. Jul 09, [20 Mar. 2010].
+http://cancer.about.com/od/breastcancer/a/cancertypes.ht
+m .
+[14]Diet and Physical Activity: What's the Cancer
+Connection? In: Prevention & Early Detection. 2009. Oct
+09, [17 Mar.
+2010]. http://www.cancer.org/docroot/PED/content/PED_
+3_1x_Link_Between_Lifestyle_and_CancerMarch03.asp
+.
+[15]Breast cancer process india, Breast cancer cost india,
+Breast cancer, delhi India. Breast cancer information and
+resources. 2010. Apr 13, [14 April
+2010]. http://www.digforthecure.org/breast-cancerprocess-india-breast-cancer-cost-india-breast-cancerdelhi-india. html .
+[16]Stages of breast cancer, Breast cancer.org. 2010. Jan 21,
+[20 Mar 2010].
+http://www.breastcancer.org/symptoms/diagnosis/staging
+.jsp .
+[17]Breast cancer treatment, the breast cancerInfo.com. [21
+Mar 2010].
+http://thebreastcancerinfo.com/breast_cancer_treatment.ht
+m .
+
+`
